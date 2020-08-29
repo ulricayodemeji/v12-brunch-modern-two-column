@@ -4,6 +4,8 @@
  * Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
  */
 
+/* Embed in a builder states and call by id#, not class */
+
 .datepicker {
   padding: 4px;
   -webkit-border-radius: 4px;
@@ -469,3 +471,5 @@
   margin-right: -5px;
 }
 /*# sourceMappingURL=bootstrap-datepicker.css.map */
+
+/*-------------------------------------------------------*/
